@@ -12,9 +12,9 @@
 <https://github.com/kleibljo20>
 
 ### Použité programy
->VSCode
->Git
->Markdown editor
+>VSCode  
+>Git  
+>Markdown editor  
 
 <p style="text-align: center; border-top: 1px solid gray; padding-top: 10px;">Střední průmyslová škola elektrotechniky a informatiky</p>
 
